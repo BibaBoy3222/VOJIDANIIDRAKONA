@@ -1,0 +1,11 @@
+{
+  "name": "В ОЖИДАНИИ ДРАКОНА — цифровая книга",
+  "short_name": "Дракон",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9e7e2",
+  "theme_color": "#171717",
+  "description": "Офлайн-издание романа «В ОЖИДАНИИ ДРАКОНА»."
+}
